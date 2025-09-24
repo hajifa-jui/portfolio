@@ -24,5 +24,5 @@ This is my **personal portfolio website**, designed to highlight:
 
 - **Last Updated:** September 25, 2025  
 ---
-⭐ **Feel free to fork this repo and explore the code.**  
+⭐ Feel free to fork this repo and explore the code. 
 💡 Suggestions and feedback are welcome — open an issue or PR anytime!  
